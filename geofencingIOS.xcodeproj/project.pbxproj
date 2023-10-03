@@ -290,6 +290,8 @@
 				DEVELOPMENT_TEAM = R97H3YAF56;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = geofencingIOS/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "위치사용 접근 허용";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -319,6 +321,8 @@
 				DEVELOPMENT_TEAM = R97H3YAF56;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = geofencingIOS/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "위치사용 접근 허용";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
